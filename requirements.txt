@@ -2,6 +2,7 @@
 git+https://github.com/KurimuzonAkuma/pyrogram.git  # pyrogram
 TgCrypto
 Pyromod
+python-dotenv
 # --- For-Database ------------ #
 pymongo
 dnspython
